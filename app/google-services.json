@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217256644398",
+    "project_id": "maskapp-404f6",
+    "storage_bucket": "maskapp-404f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217256644398:android:d624874e6a0f334cf5b4bf",
+        "android_client_info": {
+          "package_name": "com.websarva.wings.android.maskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217256644398-u760foh6dqdr0biqs9mg41gmkuq3m7td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8dUBBA3pwdlmera9IBeTOId2oMHUcQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217256644398-u760foh6dqdr0biqs9mg41gmkuq3m7td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

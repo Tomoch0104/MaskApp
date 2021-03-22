@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">キミだけが聞こえるマスクの声</string>
+    <string name="japanese_button">日本語</string>
+    <string name="english_button">English</string>
+</resources>
