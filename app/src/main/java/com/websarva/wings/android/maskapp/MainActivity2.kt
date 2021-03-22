@@ -238,7 +238,7 @@ class MainActivity2 : AppCompatActivity() {
                                             Log.d(TAG, "classification failure")
                                         }
 
-                                        Log.d(TAG, "Face recognition success")
+                                        Log.d(TAG, "Face recognition success!")
                                         // player()
                                     }
                                     imageProxy.close()
