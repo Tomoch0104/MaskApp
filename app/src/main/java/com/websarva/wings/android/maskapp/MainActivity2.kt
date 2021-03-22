@@ -232,7 +232,7 @@ class MainActivity2 : AppCompatActivity() {
                                                 textView.text = String.format("Not masked: %1.1f", without_mask * 100)
                                                 player()
                                             }
-                                            Log.d(TAG, "classification success!!!")
+                                            Log.d(TAG, "classification success")
 
                                         }?.addOnFailureListener { e ->
                                             Log.d(TAG, "classification failure")
