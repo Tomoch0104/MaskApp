@@ -9,6 +9,7 @@
 
 # アプリケーションのデモ
 
+|---|---|
 |![マスク着用gif](https://user-images.githubusercontent.com/81143699/114266455-73189d00-9a31-11eb-99b3-a2bb44d1f593.gif)|![マスク未着用gif](https://user-images.githubusercontent.com/81143699/114268074-300ef780-9a3a-11eb-86cb-4d589ef85ae9.gif)|
 
 
