@@ -6,3 +6,7 @@
 こちらでは，スマートフォンでも機械学習による推論を可能にするためTensorFloeLiteを用いて機械学習モデルを最適化しています．
 
 ![処理手順2](https://user-images.githubusercontent.com/81143699/114265956-a279da80-9a2e-11eb-8d0e-1fd7dc98795f.PNG)
+
+# アプリケーションのデモ
+
+
